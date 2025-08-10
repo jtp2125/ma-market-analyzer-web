@@ -6,5 +6,5 @@ out/
 .env*
 .DS_Store
 npm-debug.log*
-pnpm-lock.yaml
+
 yarn-error.log
